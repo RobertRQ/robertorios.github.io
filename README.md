@@ -24,5 +24,3 @@ Installation instructions here.
 * [Installation Instructions](#installation_instructions)
 * [Contact Information](#contact)
 
-<a href = "https://robertrq.github.io/PCDE-Activity-9.1/"> PCDE Activity LINK </a>
- 
